@@ -1,0 +1,9 @@
+{
+  "name": "sir-rolins-momentum-catalytic",
+  "version": "0.1.0",
+  "title": "Momentum Modules - Catalytic",
+  "author": "Sir Rolin",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "sir-rolins-momentum-modules >= 0.2.0", "? space-age", "? quality"],
+  "description": "Adds catalytic momentum modules: a version of every module type that starts with weakened bonuses and ends with weakened penalties the longer it runs."
+}
